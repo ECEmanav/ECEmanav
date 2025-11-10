@@ -1,5 +1,7 @@
-# 💫 About Me:
-👋 Hi there, I’m Manav Behl!<br>I am an Electronics Engineer, currently pursuing my Master's.<br>I love working with and analysing data and am profecient in Web-Scraping, EDA using Python and its libraries, Also have created multiple dashboards using Microsoft Excel and PowerBI and Tableu.<br>I have also worked in several projects surrounding Internet of Things as well as Machine learning, Hence have a good portfolio in Embedded C and other Hardware related IDEs<br>Currently I am looking for an entry level opportunity to use my skills in an analytical and fast face enviorment to hone them and advance my carrier<br>📫 How to Reach Me<br>Connect on LinkedIn<br>Email: [manav.behl@hotmail.com]<br>Let’s brainstorm and build something amazing together! 🚀
+# About Me:
+Hi there! I’m **Manav Behl**. I am an Electronics Engineer currently pursuing my Master's degree.<br>I have a passion for working with and analyzing data, and I am currently seeking an entry-level position that allows me to apply my skills in an analytical and fast-paced environment, where I can further develop my abilities and advance my career.<br>_To Reach Me Email_: [manav.behl@hotmail.com]<br>Let’s brainstorm and build something amazing together!
+
+>I am proficient in web scraping and exploratory data analysis (EDA) using Python and its libraries. Additionally, I have created multiple dashboards using Microsoft Excel, Power BI, and Tableau.
 
 
 ## 🌐 Socials:
